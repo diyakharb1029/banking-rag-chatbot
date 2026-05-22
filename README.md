@@ -2,7 +2,7 @@
 
 A production-quality **Retrieval-Augmented Generation (RAG)** chatbot for banking customer support. Upload your policy PDFs and knowledge base documents, then ask questions — the assistant retrieves the most relevant passages and generates grounded, citation-backed answers using Google Gemini (with automatic Groq fallback).
 
-> **Live Demo:** [frontend-url.vercel.app](https://banking-rag-chatbot-six.vercel.app) · **API:** [backend-url.onrender.com](https://your-render-url.onrender.com/health)
+> **Live Demo:** [frontend-url.vercel.app](https://banking-rag-chatbot-six.vercel.app) · **API:** [backend-url.onrender.com](https://banking-rag-chatbot-qwrt.onrender.com)
 
 ---
 Screenshot
