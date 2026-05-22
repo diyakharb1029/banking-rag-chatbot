@@ -5,7 +5,12 @@ A production-quality **Retrieval-Augmented Generation (RAG)** chatbot for bankin
 > **Live Demo:** [frontend-url.vercel.app](https://your-vercel-url.vercel.app) · **API:** [backend-url.onrender.com](https://your-render-url.onrender.com/health)
 
 ---
+Screenshot
+<img width="1440" height="900" alt="Screenshot 2026-05-22 at 6 05 04 PM" src="https://github.com/user-attachments/assets/9cb8f237-d8af-4913-b477-b3471fce439b" />
 
+
+
+---
 ## Architecture
 
 ```
